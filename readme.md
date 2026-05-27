@@ -10,9 +10,10 @@ My personal collection of CTF writeups and solutions. Each writeup walks through
 
 ## TryHackMe
 
-| #   | Room     | Difficulty | Category                                              | Writeup                                            |
-| --- | -------- | ---------- | ----------------------------------------------------- | -------------------------------------------------- |
-| 1   | Umbrella | Medium     | Docker Escape, Web Exploitation, Privilege Escalation | [Read →](TryHackMe/Umbrella/Umbrella%20writeup.md) |
+| #   | Room     | Difficulty | Category                                                                | Writeup                                          |
+| --- | -------- | ---------- | ----------------------------------------------------------------------- | ------------------------------------------------ |
+| 1   | Umbrella | Medium     | Docker Escape, Web Exploitation, Privilege Escalation                   | [Read →](TryHackMe/Umbrella/umbrella-writeup.md) |
+| 2   | Athena   | Medium     | SMB Enumeration, Web Exploitation, Privilege Escalation, Kernel Rootkit | [Read →](TryHackMe/Athena/athena-writeup.md)     |
 
 ---
 

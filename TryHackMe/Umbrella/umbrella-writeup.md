@@ -251,19 +251,19 @@ PS C:\hashcat>
 
 ## Initial Foothold — Node.js Code Injection (RCE)
 
-![alt text](image.png)
+![alt text](./assets/login-page.png)
 
 Port 8080 hosts a Node.js/Express web application with a login form. Any of the four recovered credentials worked.
 
-![alt text](image-1.png)
+![alt text](./assets/dashboard.png)
 
 After logging in, the dashboard presented a time-tracking input field that appeared to evaluate mathematical expressions — entering `6+6` correctly added `12` to the statistics.
 
-![alt text](image-2.png)
+![alt text](./assets/input-field.png)
 
 Submitting a non-numeric string returned a verbose error revealing that Node.js's **`eval()`** function was being used under the hood. This is a critical vulnerability — `eval()` executes arbitrary JavaScript.
 
-![alt text](image-3.png)
+![alt text](./assets/eval-error.png)
 
 Set up a listener:
 
