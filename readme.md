@@ -1,6 +1,6 @@
 # CTF Writeups
 
-My personal collection of CTF writeups and solutions. Each writeup walks through my full methodology — recon, exploitation, and post-exploitation.
+My personal collection of CTF writeups and solutions. Each writeup walks through my full methodology - recon, exploitation, and post-exploitation.
 
 ## Platforms
 
@@ -15,6 +15,7 @@ My personal collection of CTF writeups and solutions. Each writeup walks through
 | 1   | Umbrella  | Medium     | Docker Escape, Web Exploitation, Privilege Escalation                   | [Read →](TryHackMe/Umbrella/umbrella-writeup.md)   |
 | 2   | Athena    | Medium     | SMB Enumeration, Web Exploitation, Privilege Escalation, Kernel Rootkit | [Read →](TryHackMe/Athena/athena-writeup.md)       |
 | 3   | WhyHackMe | Medium     | FTP Enumeration, Blind XSS, TLS Decryption, iptables, CGI Injection     | [Read →](TryHackMe/WhyHackMe/whyhackme-writeup.md) |
+| 4   | Revenge   | Medium     | SQL Injection, Web Exploitation, Privilege Escalation                   | [Read →](TryHackMe/Revenge/revenge-writeup.md)     |
 
 ---
 
