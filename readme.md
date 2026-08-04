@@ -10,13 +10,14 @@ My personal collection of CTF writeups and solutions. Each writeup walks through
 
 ## TryHackMe
 
-| #   | Room           | Difficulty | Category                                                                | Writeup                                                  |
-| --- | -------------- | ---------- | ----------------------------------------------------------------------- | -------------------------------------------------------- |
-| 1   | Umbrella       | Medium     | Docker Escape, Web Exploitation, Privilege Escalation                   | [Read →](TryHackMe/Umbrella/umbrella-writeup.md)         |
-| 2   | Athena         | Medium     | SMB Enumeration, Web Exploitation, Privilege Escalation, Kernel Rootkit | [Read →](TryHackMe/Athena/athena-writeup.md)             |
-| 3   | WhyHackMe      | Medium     | FTP Enumeration, Blind XSS, TLS Decryption, iptables, CGI Injection     | [Read →](TryHackMe/WhyHackMe/whyhackme-writeup.md)       |
-| 4   | Revenge        | Medium     | SQL Injection, Web Exploitation, Privilege Escalation                   | [Read →](TryHackMe/Revenge/revenge-writeup.md)           |
-| 5   | Do Not Disturb | Medium     | NoSQL Injection, SSTI, Web Exploitation, Privilege Escalation           | [Read →](TryHackMe/DoNotDisturb/donotdisturb-writeup.md) |
+| #   | Room                | Difficulty | Category                                                                | Writeup                                                             |
+| --- | ------------------- | ---------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 1   | Umbrella            | Medium     | Docker Escape, Web Exploitation, Privilege Escalation                   | [Read →](TryHackMe/Umbrella/umbrella-writeup.md)                    |
+| 2   | Athena              | Medium     | SMB Enumeration, Web Exploitation, Privilege Escalation, Kernel Rootkit | [Read →](TryHackMe/Athena/athena-writeup.md)                        |
+| 3   | WhyHackMe           | Medium     | FTP Enumeration, Blind XSS, TLS Decryption, iptables, CGI Injection     | [Read →](TryHackMe/WhyHackMe/whyhackme-writeup.md)                  |
+| 4   | Revenge             | Medium     | SQL Injection, Web Exploitation, Privilege Escalation                   | [Read →](TryHackMe/Revenge/revenge-writeup.md)                      |
+| 5   | Do Not Disturb      | Medium     | NoSQL Injection, SSTI, Web Exploitation, Privilege Escalation           | [Read →](TryHackMe/DoNotDisturb/donotdisturb-writeup.md)            |
+| 6   | Towel on the Sunbed | Medium     | Race Condition, Business Logic, Web Exploitation                        | [Read →](TryHackMe/TowelOnTheSunbed/towel-on-the-sunbed-writeup.md) |
 
 ---
 
